@@ -1,0 +1,11 @@
+usage: lua compiler.lua directory_name
+
+support syntax:
+label
+if-goto label
+goto label
+
+function functionName nvars
+call functionName nargs
+return
+
